@@ -3,7 +3,7 @@
 ```csharp
 t94xr@github
 -------------------------
-OS: Windows 11 Pro, Fedora KDE
+OS: Windows 11 Pro, Debian, Fedora KDE
 Location: Taupo, NZ
 
 Languages: html5, css3
@@ -12,6 +12,7 @@ Interests: Digital Archiving, Retro Acheology
 Discord: t94xr
 ```
 ![](https://github-readme-stats.vercel.app/api?username=t94xr) ![](https://github-readme-streak-stats.herokuapp.com/?user=t94xr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t94xr&layout=compact)
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
