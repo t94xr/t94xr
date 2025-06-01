@@ -8,7 +8,7 @@ Location: Taupo, NZ
 
 Languages: html5, css3
 Learning: Lots of stuff.
-Interests: Digital Archiving, Retro Acheology
+Interests: Digital Archiving, Retro Archaeology 
 Discord: t94xr
 ```
 ![](https://github-readme-stats.vercel.app/api?username=t94xr) ![](https://github-readme-streak-stats.herokuapp.com/?user=t94xr)
